@@ -10,5 +10,5 @@ assignees: ''
 The output of `picotool info -d` is below:
 
 ```
-<OUTPUT GOES HERE
+<OUTPUT GOES HERE>
 ```
